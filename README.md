@@ -47,7 +47,7 @@ MoM Sales Variance = [Total Sales] - CALCULATE([Total Sales], DATEADD('Dim_Calen
 ## Dashboard Visual Preview
 *(Replace the placeholder below with a real screenshot from your `Screenshots/` folder)*
 ![Dashboard Screenshot](Screenshots/dashboard_overview.png)
-"C:\Users\Tarik\Desktop\Power BI Project\Fast Food Restaurant Sales\Screenshots\Screenshot Fast Food Restaurant Sales Report.png"
+
 
 ---
 
