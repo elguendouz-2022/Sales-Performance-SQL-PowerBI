@@ -18,7 +18,7 @@ This project delivers an end-to-end business intelligence solution designed to a
 *   **Restaurant Location Performance:** Spatial/regional performance matrix equipped with dynamic MoM indicators to identify localized growth trends.
 *   **Daily Sales & Operational Benchmarks:** A daily sales line/bar chart utilizing an operational moving average line to immediately flag exceptional outlier days.
 *   **Product Category Share:** Breakdown of performance distributions across categories to discover top revenue drivers.
-*   **Top 10 Products:** Granular ranking showcasing the highest-grossing inventory items.
+*   **Top 5 Products:** Granular ranking showcasing the highest-grossing inventory items.
 *   **Sales Activity Matrix (Days & Hours Heat Map):** A dense hour-of-day vs. day-of-week matrix to reveal hourly peak traffic windows for optimized scheduling.
 
 ---
