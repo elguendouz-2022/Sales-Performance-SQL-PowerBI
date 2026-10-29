@@ -44,13 +44,6 @@ MoM Sales Variance = [Total Sales] - CALCULATE([Total Sales], DATEADD('Dim_Calen
 
 ---
 
-## Dashboard Visual Preview
-*(Replace the placeholder below with a real screenshot from your `Screenshots/` folder)*
-![Dashboard Screenshot](Screenshots/dashboard_overview.png)
-
-
----
-
 ## 📂 How to Explore the Project
 1. **Database Setup:** Run the scripts inside `/SQL_Queries` on your SQL database engine to structure tables and verify KPI aggregations.
 2. **Interactive Report:** Download the `.pbix` file from the `/Power_BI` folder 
