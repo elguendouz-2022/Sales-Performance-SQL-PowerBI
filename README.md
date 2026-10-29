@@ -24,14 +24,11 @@ This project delivers an end-to-end business intelligence solution designed to a
 ---
 
 ##  Tech Stack & Tools
-*   **Database Engine:** SQL Server / PostgreSQL (Extract, Transform, Aggregate metrics)
+*   **Database Engine:** SQL Server  (Extract, Transform, Aggregate metrics)
 *   **Visualization Platform:** Power BI Desktop (DAX, Power Query, Data Modeling)
-*   **Documentation & Version Control:** Git & GitHub
+*   **Documentation & Version Control:**  GitHub
 
 ---
-
-##  Data Model & DAX Formulas
-*Describe your snowflake/star schema briefly here (e.g., Fact_Sales table linked to Dim_Products, Dim_Calendar, Dim_Stores).*
 
 ### Sample DAX Implementations:
 ```dax
